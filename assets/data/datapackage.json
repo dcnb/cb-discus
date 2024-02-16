@@ -1,8 +1,6 @@
 ---
-# generate a datapackage.json file 
-# based on Frictionless Data "Data Package" Spec
-# https://specs.frictionlessdata.io/data-package/
 ---
+
 {%- assign stubs = site.data.config-nav | map: 'stub' | join: ';' -%}
 {
     "profile": "data-package",
