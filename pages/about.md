@@ -1,8 +1,8 @@
 ---
-title: About
+title: About the band
 permalink: "/about.html"
 published: false
-credits: true
+credits: false
 layout: about
 ---
 
