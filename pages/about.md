@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: "/about.html"
+published: false
 credits: true
 layout: about
 ---
