@@ -9,10 +9,9 @@ collections:
     title: Uploads
     output: true
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
-tagline: a template for creating simple digital exhibits
-description: CollectionBuilder-GH is a template for creating small digital collection
-  exhibits on GitHub Pages designed for teaching digital library skills
-author: CollectionBuilder
+tagline: a siteleaf experiment
+description: Generally a cool thing this site
+author: dcn
 metadata: demo-metadata
 exclude:
 - docs/
