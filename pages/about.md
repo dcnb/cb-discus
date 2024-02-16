@@ -1,7 +1,6 @@
 ---
 title: About the band
 permalink: "/about.html"
-published: false
 credits: false
 layout: about
 ---
